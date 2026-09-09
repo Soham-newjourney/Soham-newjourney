@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=900&color=2575FC&center=true&vCenter=true&width=650&lines=Looking+for+hackathon+teammates+%F0%9F%91%8B;Open+to+team+%2F+open-source+projects;Usually+replies+within+a+day" />
 
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soham-newjourney2&label=Profile%20Visitors&color=0e75b6&style=flat" />
+</p>
+
 <br/><br/>
 
 ![Open to Collab](https://img.shields.io/badge/status-open%20to%20collab-2ea44f?style=for-the-badge)
